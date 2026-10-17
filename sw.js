@@ -1,4 +1,4 @@
-const CACHE_NAME="ventsharm-bubblewrap-builder-v4";
+const CACHE_NAME="ventsharm-bubblewrap-builder-v5";
 const APP_SHELL=["./","./index.html","./manifest.webmanifest","./Icon-192.png","./Icon-512.png"];
 
 self.addEventListener("install",event=>{
